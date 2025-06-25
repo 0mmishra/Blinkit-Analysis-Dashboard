@@ -29,6 +29,6 @@ These filters allow dynamic interaction with the visual data to generate custom 
 
 ```bash
 blinkit-sales-dashboard/
-├── .png  # Dashboard image
+├── Blinkit Analysis Dashboard.png  # Dashboard image
 ├── README.md                                 # Project documentation
-└── Blinkit_Dashboard.pbix (Optional)         # Power BI file (if added)
+└── BlinkIT Grocery Data.xlsx         # Dataset uesd
